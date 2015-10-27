@@ -9,3 +9,8 @@ kibana_username: kibana
 kibana_password: password
 
 kibana_password_protect_all: false
+
+kibana_url_download: https://download.elastic.co/kibana/kibana
+kibana_version: 3.0.1
+kibana_package: kibana-{{ kibana_version }}.tar.gz
+
